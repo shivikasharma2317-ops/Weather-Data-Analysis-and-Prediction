@@ -1,0 +1,10 @@
+Weather-Data-Analysis/
+│
+├── data/
+│   └── weather.csv
+│
+├── weather_predictor.py
+├── download_weather.py
+├── requirements.txt
+├── README.md
+├── .gitignore
